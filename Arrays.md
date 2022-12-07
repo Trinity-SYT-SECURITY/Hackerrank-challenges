@@ -38,4 +38,3 @@ Print the elements of array `A` in reverse order as a single line of space-separ
 
 `2 3 4 1`
 
-[bubble-sort](https://www.runoob.com/wp-content/uploads/2019/03/bubbleSort.gif)
